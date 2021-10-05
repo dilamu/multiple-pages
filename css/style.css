@@ -1,3 +1,21 @@
 body {
-    background-color: beige;
+background-color: #f8e8a6;
+
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+footer {
+text-align: center;
+
+}
+a {
+    
+    text-decoration: none;
+}
+footer a {
+    margin: 0 10px;
 }
